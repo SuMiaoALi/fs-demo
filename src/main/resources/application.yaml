@@ -1,0 +1,13 @@
+server:
+  port: 8888
+
+link:
+  thingscloud:
+    freeswitch:
+      esl:
+        inbound:
+          servers:
+            - host: 172.18.70.189
+              port: 8021
+              timeoutSeconds: 10
+              password: ClueCon

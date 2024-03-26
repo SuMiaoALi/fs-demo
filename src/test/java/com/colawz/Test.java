@@ -1,3 +1,5 @@
+package com.colawz;
+
 /**
  * @author cola
  */

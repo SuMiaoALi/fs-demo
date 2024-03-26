@@ -1,0 +1,9 @@
+2024-03-22 18:11:56.739 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |StartupInfoLogger.java:55 |Starting InboundStart on moon.local with PID 30971 (/Users/ali/tens/programs/fs-inbound-demo/target/classes started by ali in /Users/ali/tens/programs/fs-inbound-demo)
+2024-03-22 18:11:56.742 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |SpringApplication.java:648 |No active profile set, falling back to default profiles: default
+2024-03-22 18:11:57.146 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |StartupInfoLogger.java:61 |Started InboundStart in 0.728 seconds (JVM running for 1.286)
+2024-03-22 18:12:39.373 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |StartupInfoLogger.java:55 |Starting InboundStart on moon.local with PID 31521 (/Users/ali/tens/programs/fs-inbound-demo/target/classes started by ali in /Users/ali/tens/programs/fs-inbound-demo)
+2024-03-22 18:12:39.377 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |SpringApplication.java:648 |No active profile set, falling back to default profiles: default
+2024-03-22 18:12:39.899 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |StartupInfoLogger.java:61 |Started InboundStart in 0.838 seconds (JVM running for 1.342)
+2024-03-22 18:13:10.271 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |StartupInfoLogger.java:55 |Starting InboundStart on moon.local with PID 31851 (/Users/ali/tens/programs/fs-inbound-demo/target/classes started by ali in /Users/ali/tens/programs/fs-inbound-demo)
+2024-03-22 18:13:10.275 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |SpringApplication.java:648 |No active profile set, falling back to default profiles: default
+2024-03-22 18:13:11.480 |INFO  | |InboundApp,,, |main |com.colawz.InboundStart |StartupInfoLogger.java:61 |Started InboundStart in 1.532 seconds (JVM running for 2.094)
